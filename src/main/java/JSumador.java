@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author glk05
+ * @author glk05 holaa 
  */
 public class JSumador extends javax.swing.JFrame {
 
